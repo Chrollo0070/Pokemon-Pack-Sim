@@ -16,8 +16,15 @@ const PACK_COST = parseInt(process.env.PACK_COST || '100', 10);
 // API Configuration
 const API_BASE = 'https://api.pokemontcg.io/v2';
 
+// Configure CORS to allow requests from your frontend
+// Set FRONTEND_URL environment variable to your frontend's URL in production
+const corsOptions = {
+  origin: process.env.FRONTEND_URL || 'http://localhost:5173',
+  optionsSuccessStatus: 200
+};
+
 // Global middleware (must be before routes)
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // File paths
