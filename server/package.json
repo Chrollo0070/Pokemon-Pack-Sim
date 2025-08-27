@@ -1,0 +1,19 @@
+{
+  "name": "pokemon-tcg-pack-server",
+  "version": "1.0.0",
+  "description": "Backend server for Pokémon TCG Pack Opening Website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "NODE_ENV=development node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}

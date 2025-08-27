@@ -1,0 +1,14 @@
+[
+  { "id": "sv1", "name": "Scarlet & Violet", "series": "Scarlet & Violet", "releaseDate": "2023/03/31", "images": {}, "cost": 100 },
+  { "id": "sv2", "name": "Paldea Evolved", "series": "Scarlet & Violet", "releaseDate": "2023/06/09", "images": {}, "cost": 100 },
+  { "id": "sv3", "name": "Obsidian Flames", "series": "Scarlet & Violet", "releaseDate": "2023/08/11", "images": {}, "cost": 100 },
+  { "id": "sv4", "name": "Paradox Rift", "series": "Scarlet & Violet", "releaseDate": "2023/11/03", "images": {}, "cost": 100 },
+  { "id": "sv5", "name": "Temporal Forces", "series": "Scarlet & Violet", "releaseDate": "2024/03/22", "images": {}, "cost": 100 },
+  { "id": "sv6", "name": "Twilight Masquerade", "series": "Scarlet & Violet", "releaseDate": "2024/05/24", "images": {}, "cost": 100 },
+  { "id": "base1", "name": "Base Set", "series": "Base", "releaseDate": "1999/01/09", "images": {}, "cost": 100 },
+  { "id": "base2", "name": "Jungle", "series": "Base", "releaseDate": "1999/06/16", "images": {}, "cost": 100 },
+  { "id": "base3", "name": "Fossil", "series": "Base", "releaseDate": "1999/10/10", "images": {}, "cost": 100 },
+  { "id": "xy1", "name": "XY", "series": "XY", "releaseDate": "2014/02/05", "images": {}, "cost": 100 },
+  { "id": "sm1", "name": "Sun & Moon", "series": "Sun & Moon", "releaseDate": "2017/02/03", "images": {}, "cost": 100 },
+  { "id": "swsh1", "name": "Sword & Shield", "series": "Sword & Shield", "releaseDate": "2020/02/07", "images": {}, "cost": 100 }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-tcg-pack-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "start": "concurrently \"npm:server\" \"npm:client\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}

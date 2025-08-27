@@ -1,0 +1,6050 @@
+[
+  {
+    "id": "swsh1-1",
+    "name": "Celebi V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "1",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/1.png",
+      "large": "https://images.pokemontcg.io/swsh1/1_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-2",
+    "name": "Roselia",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "2",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/2.png",
+      "large": "https://images.pokemontcg.io/swsh1/2_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-3",
+    "name": "Roselia",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "3",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/3.png",
+      "large": "https://images.pokemontcg.io/swsh1/3_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-4",
+    "name": "Roserade",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "4",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/4.png",
+      "large": "https://images.pokemontcg.io/swsh1/4_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-5",
+    "name": "Cottonee",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "5",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/5.png",
+      "large": "https://images.pokemontcg.io/swsh1/5_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-6",
+    "name": "Whimsicott",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "6",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/6.png",
+      "large": "https://images.pokemontcg.io/swsh1/6_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-7",
+    "name": "Maractus",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "7",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/7.png",
+      "large": "https://images.pokemontcg.io/swsh1/7_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-8",
+    "name": "Durant",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "8",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/8.png",
+      "large": "https://images.pokemontcg.io/swsh1/8_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-9",
+    "name": "Dhelmise V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "9",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/9.png",
+      "large": "https://images.pokemontcg.io/swsh1/9_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-10",
+    "name": "Grookey",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "10",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/10.png",
+      "large": "https://images.pokemontcg.io/swsh1/10_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-11",
+    "name": "Grookey",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "11",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/11.png",
+      "large": "https://images.pokemontcg.io/swsh1/11_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-12",
+    "name": "Thwackey",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "12",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/12.png",
+      "large": "https://images.pokemontcg.io/swsh1/12_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-13",
+    "name": "Thwackey",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "13",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/13.png",
+      "large": "https://images.pokemontcg.io/swsh1/13_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-14",
+    "name": "Rillaboom",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "14",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/14.png",
+      "large": "https://images.pokemontcg.io/swsh1/14_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-15",
+    "name": "Rillaboom",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "15",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/15.png",
+      "large": "https://images.pokemontcg.io/swsh1/15_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-16",
+    "name": "Blipbug",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "16",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/16.png",
+      "large": "https://images.pokemontcg.io/swsh1/16_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-17",
+    "name": "Blipbug",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "17",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/17.png",
+      "large": "https://images.pokemontcg.io/swsh1/17_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-18",
+    "name": "Dottler",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "18",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/18.png",
+      "large": "https://images.pokemontcg.io/swsh1/18_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-19",
+    "name": "Orbeetle",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "19",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/19.png",
+      "large": "https://images.pokemontcg.io/swsh1/19_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-20",
+    "name": "Gossifleur",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "20",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/20.png",
+      "large": "https://images.pokemontcg.io/swsh1/20_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-21",
+    "name": "Eldegoss",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "21",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/21.png",
+      "large": "https://images.pokemontcg.io/swsh1/21_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-22",
+    "name": "Vulpix",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "22",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/22.png",
+      "large": "https://images.pokemontcg.io/swsh1/22_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-23",
+    "name": "Ninetales",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "23",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/23.png",
+      "large": "https://images.pokemontcg.io/swsh1/23_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-24",
+    "name": "Torkoal V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "24",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/24.png",
+      "large": "https://images.pokemontcg.io/swsh1/24_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-25",
+    "name": "Victini V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "25",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/25.png",
+      "large": "https://images.pokemontcg.io/swsh1/25_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-26",
+    "name": "Heatmor",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "26",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/26.png",
+      "large": "https://images.pokemontcg.io/swsh1/26_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-27",
+    "name": "Salandit",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "27",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/27.png",
+      "large": "https://images.pokemontcg.io/swsh1/27_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-28",
+    "name": "Salazzle",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "28",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/28.png",
+      "large": "https://images.pokemontcg.io/swsh1/28_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-29",
+    "name": "Turtonator",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "29",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/29.png",
+      "large": "https://images.pokemontcg.io/swsh1/29_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-30",
+    "name": "Scorbunny",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "30",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/30.png",
+      "large": "https://images.pokemontcg.io/swsh1/30_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-31",
+    "name": "Scorbunny",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "31",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/31.png",
+      "large": "https://images.pokemontcg.io/swsh1/31_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-32",
+    "name": "Raboot",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "32",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/32.png",
+      "large": "https://images.pokemontcg.io/swsh1/32_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-33",
+    "name": "Raboot",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "33",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/33.png",
+      "large": "https://images.pokemontcg.io/swsh1/33_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-34",
+    "name": "Cinderace",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "34",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/34.png",
+      "large": "https://images.pokemontcg.io/swsh1/34_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-35",
+    "name": "Cinderace",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "35",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/35.png",
+      "large": "https://images.pokemontcg.io/swsh1/35_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-36",
+    "name": "Cinderace",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "36",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/36.png",
+      "large": "https://images.pokemontcg.io/swsh1/36_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-37",
+    "name": "Sizzlipede",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "37",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/37.png",
+      "large": "https://images.pokemontcg.io/swsh1/37_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-38",
+    "name": "Sizzlipede",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "38",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/38.png",
+      "large": "https://images.pokemontcg.io/swsh1/38_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-39",
+    "name": "Centiskorch",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "39",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/39.png",
+      "large": "https://images.pokemontcg.io/swsh1/39_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-40",
+    "name": "Shellder",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "40",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/40.png",
+      "large": "https://images.pokemontcg.io/swsh1/40_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-41",
+    "name": "Cloyster",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "41",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/41.png",
+      "large": "https://images.pokemontcg.io/swsh1/41_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-42",
+    "name": "Krabby",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "42",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/42.png",
+      "large": "https://images.pokemontcg.io/swsh1/42_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-43",
+    "name": "Krabby",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "43",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/43.png",
+      "large": "https://images.pokemontcg.io/swsh1/43_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-44",
+    "name": "Kingler",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "44",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/44.png",
+      "large": "https://images.pokemontcg.io/swsh1/44_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-45",
+    "name": "Goldeen",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "45",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/45.png",
+      "large": "https://images.pokemontcg.io/swsh1/45_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-46",
+    "name": "Goldeen",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "46",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/46.png",
+      "large": "https://images.pokemontcg.io/swsh1/46_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-47",
+    "name": "Seaking",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "47",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/47.png",
+      "large": "https://images.pokemontcg.io/swsh1/47_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-48",
+    "name": "Lapras",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "48",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/48.png",
+      "large": "https://images.pokemontcg.io/swsh1/48_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-49",
+    "name": "Lapras V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "49",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/49.png",
+      "large": "https://images.pokemontcg.io/swsh1/49_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-50",
+    "name": "Lapras VMAX",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "50",
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/50.png",
+      "large": "https://images.pokemontcg.io/swsh1/50_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-51",
+    "name": "Qwilfish",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "51",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/51.png",
+      "large": "https://images.pokemontcg.io/swsh1/51_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-52",
+    "name": "Mantine",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "52",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/52.png",
+      "large": "https://images.pokemontcg.io/swsh1/52_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-53",
+    "name": "Keldeo V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "53",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/53.png",
+      "large": "https://images.pokemontcg.io/swsh1/53_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-54",
+    "name": "Sobble",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "54",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/54.png",
+      "large": "https://images.pokemontcg.io/swsh1/54_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-55",
+    "name": "Sobble",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "55",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/55.png",
+      "large": "https://images.pokemontcg.io/swsh1/55_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-56",
+    "name": "Drizzile",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "56",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/56.png",
+      "large": "https://images.pokemontcg.io/swsh1/56_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-57",
+    "name": "Drizzile",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "57",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/57.png",
+      "large": "https://images.pokemontcg.io/swsh1/57_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-58",
+    "name": "Inteleon",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "58",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/58.png",
+      "large": "https://images.pokemontcg.io/swsh1/58_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-59",
+    "name": "Inteleon",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "59",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/59.png",
+      "large": "https://images.pokemontcg.io/swsh1/59_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-60",
+    "name": "Chewtle",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "60",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/60.png",
+      "large": "https://images.pokemontcg.io/swsh1/60_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-61",
+    "name": "Drednaw",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "61",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/61.png",
+      "large": "https://images.pokemontcg.io/swsh1/61_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-62",
+    "name": "Cramorant",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "62",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/62.png",
+      "large": "https://images.pokemontcg.io/swsh1/62_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-63",
+    "name": "Snom",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "63",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/63.png",
+      "large": "https://images.pokemontcg.io/swsh1/63_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-64",
+    "name": "Frosmoth",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "64",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/64.png",
+      "large": "https://images.pokemontcg.io/swsh1/64_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-65",
+    "name": "Pikachu",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "65",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/65.png",
+      "large": "https://images.pokemontcg.io/swsh1/65_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-66",
+    "name": "Raichu",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "66",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/66.png",
+      "large": "https://images.pokemontcg.io/swsh1/66_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-67",
+    "name": "Chinchou",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "67",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/67.png",
+      "large": "https://images.pokemontcg.io/swsh1/67_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-68",
+    "name": "Chinchou",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "68",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/68.png",
+      "large": "https://images.pokemontcg.io/swsh1/68_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-69",
+    "name": "Lanturn",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "69",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/69.png",
+      "large": "https://images.pokemontcg.io/swsh1/69_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-70",
+    "name": "Joltik",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "70",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/70.png",
+      "large": "https://images.pokemontcg.io/swsh1/70_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-71",
+    "name": "Galvantula",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "71",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/71.png",
+      "large": "https://images.pokemontcg.io/swsh1/71_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-72",
+    "name": "Tapu Koko V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "72",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/72.png",
+      "large": "https://images.pokemontcg.io/swsh1/72_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-73",
+    "name": "Yamper",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "73",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/73.png",
+      "large": "https://images.pokemontcg.io/swsh1/73_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-74",
+    "name": "Yamper",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "74",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/74.png",
+      "large": "https://images.pokemontcg.io/swsh1/74_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-75",
+    "name": "Boltund",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "75",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/75.png",
+      "large": "https://images.pokemontcg.io/swsh1/75_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-76",
+    "name": "Boltund",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "76",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/76.png",
+      "large": "https://images.pokemontcg.io/swsh1/76_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-77",
+    "name": "Pincurchin",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "77",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/77.png",
+      "large": "https://images.pokemontcg.io/swsh1/77_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-78",
+    "name": "Morpeko",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "78",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/78.png",
+      "large": "https://images.pokemontcg.io/swsh1/78_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-79",
+    "name": "Morpeko V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "79",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/79.png",
+      "large": "https://images.pokemontcg.io/swsh1/79_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-80",
+    "name": "Morpeko VMAX",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "80",
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/80.png",
+      "large": "https://images.pokemontcg.io/swsh1/80_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-81",
+    "name": "Galarian Ponyta",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "81",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/81.png",
+      "large": "https://images.pokemontcg.io/swsh1/81_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-82",
+    "name": "Galarian Rapidash",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "82",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/82.png",
+      "large": "https://images.pokemontcg.io/swsh1/82_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-83",
+    "name": "Gastly",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "83",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/83.png",
+      "large": "https://images.pokemontcg.io/swsh1/83_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-84",
+    "name": "Haunter",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "84",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/84.png",
+      "large": "https://images.pokemontcg.io/swsh1/84_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-85",
+    "name": "Gengar",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "85",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/85.png",
+      "large": "https://images.pokemontcg.io/swsh1/85_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-86",
+    "name": "Wobbuffet V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "86",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/86.png",
+      "large": "https://images.pokemontcg.io/swsh1/86_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-87",
+    "name": "Munna",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "87",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/87.png",
+      "large": "https://images.pokemontcg.io/swsh1/87_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-88",
+    "name": "Musharna",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "88",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/88.png",
+      "large": "https://images.pokemontcg.io/swsh1/88_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-89",
+    "name": "Sinistea",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "89",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/89.png",
+      "large": "https://images.pokemontcg.io/swsh1/89_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-90",
+    "name": "Polteageist",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "90",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/90.png",
+      "large": "https://images.pokemontcg.io/swsh1/90_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-91",
+    "name": "Indeedee V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "91",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/91.png",
+      "large": "https://images.pokemontcg.io/swsh1/91_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-92",
+    "name": "Diglett",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "92",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/92.png",
+      "large": "https://images.pokemontcg.io/swsh1/92_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-93",
+    "name": "Dugtrio",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "93",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/93.png",
+      "large": "https://images.pokemontcg.io/swsh1/93_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-94",
+    "name": "Hitmonlee",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "94",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/94.png",
+      "large": "https://images.pokemontcg.io/swsh1/94_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-95",
+    "name": "Hitmonchan",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "95",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/95.png",
+      "large": "https://images.pokemontcg.io/swsh1/95_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-96",
+    "name": "Rhyhorn",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "96",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/96.png",
+      "large": "https://images.pokemontcg.io/swsh1/96_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-97",
+    "name": "Rhyhorn",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "97",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/97.png",
+      "large": "https://images.pokemontcg.io/swsh1/97_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-98",
+    "name": "Rhydon",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "98",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/98.png",
+      "large": "https://images.pokemontcg.io/swsh1/98_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-99",
+    "name": "Rhyperior",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "99",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/99.png",
+      "large": "https://images.pokemontcg.io/swsh1/99_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-100",
+    "name": "Sudowoodo",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "100",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/100.png",
+      "large": "https://images.pokemontcg.io/swsh1/100_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-101",
+    "name": "Baltoy",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "101",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/101.png",
+      "large": "https://images.pokemontcg.io/swsh1/101_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-102",
+    "name": "Baltoy",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "102",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/102.png",
+      "large": "https://images.pokemontcg.io/swsh1/102_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-103",
+    "name": "Claydol",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "103",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/103.png",
+      "large": "https://images.pokemontcg.io/swsh1/103_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-104",
+    "name": "Regirock V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "104",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/104.png",
+      "large": "https://images.pokemontcg.io/swsh1/104_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-105",
+    "name": "Mudbray",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "105",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/105.png",
+      "large": "https://images.pokemontcg.io/swsh1/105_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-106",
+    "name": "Mudsdale",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "106",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/106.png",
+      "large": "https://images.pokemontcg.io/swsh1/106_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-107",
+    "name": "Silicobra",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "107",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/107.png",
+      "large": "https://images.pokemontcg.io/swsh1/107_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-108",
+    "name": "Silicobra",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "108",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/108.png",
+      "large": "https://images.pokemontcg.io/swsh1/108_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-109",
+    "name": "Sandaconda",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "109",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/109.png",
+      "large": "https://images.pokemontcg.io/swsh1/109_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-110",
+    "name": "Sandaconda",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "110",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/110.png",
+      "large": "https://images.pokemontcg.io/swsh1/110_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-111",
+    "name": "Clobbopus",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "111",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/111.png",
+      "large": "https://images.pokemontcg.io/swsh1/111_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-112",
+    "name": "Clobbopus",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "112",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/112.png",
+      "large": "https://images.pokemontcg.io/swsh1/112_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-113",
+    "name": "Grapploct",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "113",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/113.png",
+      "large": "https://images.pokemontcg.io/swsh1/113_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-114",
+    "name": "Stonjourner",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "114",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/114.png",
+      "large": "https://images.pokemontcg.io/swsh1/114_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-115",
+    "name": "Stonjourner V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "115",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/115.png",
+      "large": "https://images.pokemontcg.io/swsh1/115_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-116",
+    "name": "Stonjourner VMAX",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "116",
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/116.png",
+      "large": "https://images.pokemontcg.io/swsh1/116_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-117",
+    "name": "Galarian Zigzagoon",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "117",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/117.png",
+      "large": "https://images.pokemontcg.io/swsh1/117_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-118",
+    "name": "Galarian Linoone",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "118",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/118.png",
+      "large": "https://images.pokemontcg.io/swsh1/118_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-119",
+    "name": "Galarian Obstagoon",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "119",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/119.png",
+      "large": "https://images.pokemontcg.io/swsh1/119_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-120",
+    "name": "Sableye V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "120",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/120.png",
+      "large": "https://images.pokemontcg.io/swsh1/120_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-121",
+    "name": "Skorupi",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "121",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/121.png",
+      "large": "https://images.pokemontcg.io/swsh1/121_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-122",
+    "name": "Drapion",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "122",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/122.png",
+      "large": "https://images.pokemontcg.io/swsh1/122_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-123",
+    "name": "Croagunk",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "123",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/123.png",
+      "large": "https://images.pokemontcg.io/swsh1/123_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-124",
+    "name": "Toxicroak",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "124",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/124.png",
+      "large": "https://images.pokemontcg.io/swsh1/124_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-125",
+    "name": "Nickit",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "125",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/125.png",
+      "large": "https://images.pokemontcg.io/swsh1/125_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-126",
+    "name": "Thievul",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "126",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/126.png",
+      "large": "https://images.pokemontcg.io/swsh1/126_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-127",
+    "name": "Galarian Meowth",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "127",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/127.png",
+      "large": "https://images.pokemontcg.io/swsh1/127_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-128",
+    "name": "Galarian Perrserker",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "128",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/128.png",
+      "large": "https://images.pokemontcg.io/swsh1/128_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-129",
+    "name": "Mawile",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "129",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/129.png",
+      "large": "https://images.pokemontcg.io/swsh1/129_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-130",
+    "name": "Ferroseed",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "130",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/130.png",
+      "large": "https://images.pokemontcg.io/swsh1/130_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-131",
+    "name": "Ferrothorn",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "131",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/131.png",
+      "large": "https://images.pokemontcg.io/swsh1/131_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-132",
+    "name": "Galarian Stunfisk",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "132",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/132.png",
+      "large": "https://images.pokemontcg.io/swsh1/132_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-133",
+    "name": "Pawniard",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "133",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/133.png",
+      "large": "https://images.pokemontcg.io/swsh1/133_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-134",
+    "name": "Bisharp",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "134",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/134.png",
+      "large": "https://images.pokemontcg.io/swsh1/134_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-135",
+    "name": "Corviknight",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "135",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/135.png",
+      "large": "https://images.pokemontcg.io/swsh1/135_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-136",
+    "name": "Cufant",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "136",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/136.png",
+      "large": "https://images.pokemontcg.io/swsh1/136_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-137",
+    "name": "Copperajah",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "137",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/137.png",
+      "large": "https://images.pokemontcg.io/swsh1/137_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-138",
+    "name": "Zacian V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "138",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/138.png",
+      "large": "https://images.pokemontcg.io/swsh1/138_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-139",
+    "name": "Zamazenta V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "139",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/139.png",
+      "large": "https://images.pokemontcg.io/swsh1/139_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-140",
+    "name": "Snorlax",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "140",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/140.png",
+      "large": "https://images.pokemontcg.io/swsh1/140_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-141",
+    "name": "Snorlax V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "141",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/141.png",
+      "large": "https://images.pokemontcg.io/swsh1/141_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-142",
+    "name": "Snorlax VMAX",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "142",
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/142.png",
+      "large": "https://images.pokemontcg.io/swsh1/142_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-143",
+    "name": "Hoothoot",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "143",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/143.png",
+      "large": "https://images.pokemontcg.io/swsh1/143_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-144",
+    "name": "Noctowl",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "144",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/144.png",
+      "large": "https://images.pokemontcg.io/swsh1/144_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-145",
+    "name": "Minccino",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "145",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/145.png",
+      "large": "https://images.pokemontcg.io/swsh1/145_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-146",
+    "name": "Minccino",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "146",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/146.png",
+      "large": "https://images.pokemontcg.io/swsh1/146_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-147",
+    "name": "Cinccino",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "147",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/147.png",
+      "large": "https://images.pokemontcg.io/swsh1/147_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-148",
+    "name": "Oranguru",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "148",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/148.png",
+      "large": "https://images.pokemontcg.io/swsh1/148_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-149",
+    "name": "Drampa",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "149",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/149.png",
+      "large": "https://images.pokemontcg.io/swsh1/149_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-150",
+    "name": "Rookidee",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "150",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/150.png",
+      "large": "https://images.pokemontcg.io/swsh1/150_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-151",
+    "name": "Corvisquire",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "151",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/151.png",
+      "large": "https://images.pokemontcg.io/swsh1/151_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-152",
+    "name": "Wooloo",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "152",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/152.png",
+      "large": "https://images.pokemontcg.io/swsh1/152_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-153",
+    "name": "Wooloo",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "153",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/153.png",
+      "large": "https://images.pokemontcg.io/swsh1/153_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-154",
+    "name": "Dubwool",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "154",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/154.png",
+      "large": "https://images.pokemontcg.io/swsh1/154_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-155",
+    "name": "Cramorant V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "155",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/155.png",
+      "large": "https://images.pokemontcg.io/swsh1/155_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-156",
+    "name": "Air Balloon",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "156",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/156.png",
+      "large": "https://images.pokemontcg.io/swsh1/156_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-157",
+    "name": "Bede",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "157",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/157.png",
+      "large": "https://images.pokemontcg.io/swsh1/157_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-158",
+    "name": "Big Charm",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "158",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/158.png",
+      "large": "https://images.pokemontcg.io/swsh1/158_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-159",
+    "name": "Crushing Hammer",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "159",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/159.png",
+      "large": "https://images.pokemontcg.io/swsh1/159_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-160",
+    "name": "Energy Retrieval",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "160",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/160.png",
+      "large": "https://images.pokemontcg.io/swsh1/160_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-161",
+    "name": "Energy Search",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "161",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/161.png",
+      "large": "https://images.pokemontcg.io/swsh1/161_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-162",
+    "name": "Energy Switch",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "162",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/162.png",
+      "large": "https://images.pokemontcg.io/swsh1/162_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-163",
+    "name": "Evolution Incense",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "163",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/163.png",
+      "large": "https://images.pokemontcg.io/swsh1/163_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-164",
+    "name": "Great Ball",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "164",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/164.png",
+      "large": "https://images.pokemontcg.io/swsh1/164_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-165",
+    "name": "Hop",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "165",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/165.png",
+      "large": "https://images.pokemontcg.io/swsh1/165_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-166",
+    "name": "Hyper Potion",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "166",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/166.png",
+      "large": "https://images.pokemontcg.io/swsh1/166_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-167",
+    "name": "Lucky Egg",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "167",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/167.png",
+      "large": "https://images.pokemontcg.io/swsh1/167_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-168",
+    "name": "Lum Berry",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "168",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/168.png",
+      "large": "https://images.pokemontcg.io/swsh1/168_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-169",
+    "name": "Marnie",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "169",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/169.png",
+      "large": "https://images.pokemontcg.io/swsh1/169_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-170",
+    "name": "Metal Saucer",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "170",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/170.png",
+      "large": "https://images.pokemontcg.io/swsh1/170_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-171",
+    "name": "Ordinary Rod",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "171",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/171.png",
+      "large": "https://images.pokemontcg.io/swsh1/171_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-172",
+    "name": "Pal Pad",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "172",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/172.png",
+      "large": "https://images.pokemontcg.io/swsh1/172_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-173",
+    "name": "Poké Kid",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "173",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/173.png",
+      "large": "https://images.pokemontcg.io/swsh1/173_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-174",
+    "name": "Pokégear 3.0",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "174",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/174.png",
+      "large": "https://images.pokemontcg.io/swsh1/174_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-175",
+    "name": "Pokémon Catcher",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "175",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/175.png",
+      "large": "https://images.pokemontcg.io/swsh1/175_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-176",
+    "name": "Pokémon Center Lady",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "176",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/176.png",
+      "large": "https://images.pokemontcg.io/swsh1/176_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-177",
+    "name": "Potion",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "177",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/177.png",
+      "large": "https://images.pokemontcg.io/swsh1/177_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-178",
+    "name": "Professor's Research (Professor Magnolia)",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "178",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/178.png",
+      "large": "https://images.pokemontcg.io/swsh1/178_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-179",
+    "name": "Quick Ball",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "179",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/179.png",
+      "large": "https://images.pokemontcg.io/swsh1/179_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-180",
+    "name": "Rare Candy",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "180",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/180.png",
+      "large": "https://images.pokemontcg.io/swsh1/180_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-181",
+    "name": "Rotom Bike",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "181",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/181.png",
+      "large": "https://images.pokemontcg.io/swsh1/181_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-182",
+    "name": "Sitrus Berry",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "182",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/182.png",
+      "large": "https://images.pokemontcg.io/swsh1/182_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-183",
+    "name": "Switch",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "183",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/183.png",
+      "large": "https://images.pokemontcg.io/swsh1/183_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-184",
+    "name": "Team Yell Grunt",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "184",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/184.png",
+      "large": "https://images.pokemontcg.io/swsh1/184_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-185",
+    "name": "Vitality Band",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "185",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/185.png",
+      "large": "https://images.pokemontcg.io/swsh1/185_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-186",
+    "name": "Aurora Energy",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "186",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/186.png",
+      "large": "https://images.pokemontcg.io/swsh1/186_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-187",
+    "name": "Dhelmise V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "187",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/187.png",
+      "large": "https://images.pokemontcg.io/swsh1/187_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-188",
+    "name": "Torkoal V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "188",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/188.png",
+      "large": "https://images.pokemontcg.io/swsh1/188_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-189",
+    "name": "Lapras V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "189",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/189.png",
+      "large": "https://images.pokemontcg.io/swsh1/189_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-190",
+    "name": "Morpeko V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "190",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/190.png",
+      "large": "https://images.pokemontcg.io/swsh1/190_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-191",
+    "name": "Wobbuffet V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "191",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/191.png",
+      "large": "https://images.pokemontcg.io/swsh1/191_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-192",
+    "name": "Indeedee V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "192",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/192.png",
+      "large": "https://images.pokemontcg.io/swsh1/192_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-193",
+    "name": "Stonjourner V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "193",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/193.png",
+      "large": "https://images.pokemontcg.io/swsh1/193_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-194",
+    "name": "Sableye V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "194",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/194.png",
+      "large": "https://images.pokemontcg.io/swsh1/194_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-195",
+    "name": "Zacian V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "195",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/195.png",
+      "large": "https://images.pokemontcg.io/swsh1/195_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-196",
+    "name": "Zamazenta V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "196",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/196.png",
+      "large": "https://images.pokemontcg.io/swsh1/196_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-197",
+    "name": "Snorlax V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "197",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/197.png",
+      "large": "https://images.pokemontcg.io/swsh1/197_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-198",
+    "name": "Cramorant V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "198",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/198.png",
+      "large": "https://images.pokemontcg.io/swsh1/198_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-199",
+    "name": "Bede",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "199",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/199.png",
+      "large": "https://images.pokemontcg.io/swsh1/199_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-200",
+    "name": "Marnie",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "200",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/200.png",
+      "large": "https://images.pokemontcg.io/swsh1/200_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-201",
+    "name": "Professor's Research (Professor Magnolia)",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "201",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/201.png",
+      "large": "https://images.pokemontcg.io/swsh1/201_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-202",
+    "name": "Team Yell Grunt",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "202",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/202.png",
+      "large": "https://images.pokemontcg.io/swsh1/202_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-203",
+    "name": "Lapras VMAX",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "203",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/203.png",
+      "large": "https://images.pokemontcg.io/swsh1/203_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-204",
+    "name": "Morpeko VMAX",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "204",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/204.png",
+      "large": "https://images.pokemontcg.io/swsh1/204_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-205",
+    "name": "Stonjourner VMAX",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "205",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/205.png",
+      "large": "https://images.pokemontcg.io/swsh1/205_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-206",
+    "name": "Snorlax VMAX",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "206",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/206.png",
+      "large": "https://images.pokemontcg.io/swsh1/206_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-207",
+    "name": "Bede",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "207",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/207.png",
+      "large": "https://images.pokemontcg.io/swsh1/207_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-208",
+    "name": "Marnie",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "208",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/208.png",
+      "large": "https://images.pokemontcg.io/swsh1/208_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-209",
+    "name": "Professor's Research (Professor Magnolia)",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "209",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/209.png",
+      "large": "https://images.pokemontcg.io/swsh1/209_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-210",
+    "name": "Team Yell Grunt",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "210",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/210.png",
+      "large": "https://images.pokemontcg.io/swsh1/210_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-211",
+    "name": "Zacian V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "211",
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/211.png",
+      "large": "https://images.pokemontcg.io/swsh1/211_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-212",
+    "name": "Zamazenta V",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "212",
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/212.png",
+      "large": "https://images.pokemontcg.io/swsh1/212_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-213",
+    "name": "Air Balloon",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "213",
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/213.png",
+      "large": "https://images.pokemontcg.io/swsh1/213_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-214",
+    "name": "Metal Saucer",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "214",
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/214.png",
+      "large": "https://images.pokemontcg.io/swsh1/214_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-215",
+    "name": "Ordinary Rod",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "215",
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/215.png",
+      "large": "https://images.pokemontcg.io/swsh1/215_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-216",
+    "name": "Quick Ball",
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "216",
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/216.png",
+      "large": "https://images.pokemontcg.io/swsh1/216_hires.png"
+    }
+  }
+]

@@ -1,0 +1,4090 @@
+[
+  {
+    "id": "xy1-1",
+    "name": "Venusaur-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "1",
+    "rarity": "Rare Holo EX",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/1.png",
+      "large": "https://images.pokemontcg.io/xy1/1_hires.png"
+    }
+  },
+  {
+    "id": "xy1-2",
+    "name": "M Venusaur-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "2",
+    "rarity": "Rare Holo EX",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/2.png",
+      "large": "https://images.pokemontcg.io/xy1/2_hires.png"
+    }
+  },
+  {
+    "id": "xy1-3",
+    "name": "Weedle",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "3",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/3.png",
+      "large": "https://images.pokemontcg.io/xy1/3_hires.png"
+    }
+  },
+  {
+    "id": "xy1-4",
+    "name": "Kakuna",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "4",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/4.png",
+      "large": "https://images.pokemontcg.io/xy1/4_hires.png"
+    }
+  },
+  {
+    "id": "xy1-5",
+    "name": "Beedrill",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "5",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/5.png",
+      "large": "https://images.pokemontcg.io/xy1/5_hires.png"
+    }
+  },
+  {
+    "id": "xy1-6",
+    "name": "Ledyba",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "6",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/6.png",
+      "large": "https://images.pokemontcg.io/xy1/6_hires.png"
+    }
+  },
+  {
+    "id": "xy1-7",
+    "name": "Ledian",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "7",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/7.png",
+      "large": "https://images.pokemontcg.io/xy1/7_hires.png"
+    }
+  },
+  {
+    "id": "xy1-8",
+    "name": "Volbeat",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "8",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/8.png",
+      "large": "https://images.pokemontcg.io/xy1/8_hires.png"
+    }
+  },
+  {
+    "id": "xy1-9",
+    "name": "Illumise",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "9",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/9.png",
+      "large": "https://images.pokemontcg.io/xy1/9_hires.png"
+    }
+  },
+  {
+    "id": "xy1-10",
+    "name": "Pansage",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "10",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/10.png",
+      "large": "https://images.pokemontcg.io/xy1/10_hires.png"
+    }
+  },
+  {
+    "id": "xy1-11",
+    "name": "Simisage",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "11",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/11.png",
+      "large": "https://images.pokemontcg.io/xy1/11_hires.png"
+    }
+  },
+  {
+    "id": "xy1-12",
+    "name": "Chespin",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "12",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/12.png",
+      "large": "https://images.pokemontcg.io/xy1/12_hires.png"
+    }
+  },
+  {
+    "id": "xy1-13",
+    "name": "Quilladin",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "13",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/13.png",
+      "large": "https://images.pokemontcg.io/xy1/13_hires.png"
+    }
+  },
+  {
+    "id": "xy1-14",
+    "name": "Chesnaught",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "14",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/14.png",
+      "large": "https://images.pokemontcg.io/xy1/14_hires.png"
+    }
+  },
+  {
+    "id": "xy1-15",
+    "name": "Scatterbug",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "15",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/15.png",
+      "large": "https://images.pokemontcg.io/xy1/15_hires.png"
+    }
+  },
+  {
+    "id": "xy1-16",
+    "name": "Spewpa",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "16",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/16.png",
+      "large": "https://images.pokemontcg.io/xy1/16_hires.png"
+    }
+  },
+  {
+    "id": "xy1-17",
+    "name": "Vivillon",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "17",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/17.png",
+      "large": "https://images.pokemontcg.io/xy1/17_hires.png"
+    }
+  },
+  {
+    "id": "xy1-18",
+    "name": "Skiddo",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "18",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/18.png",
+      "large": "https://images.pokemontcg.io/xy1/18_hires.png"
+    }
+  },
+  {
+    "id": "xy1-19",
+    "name": "Gogoat",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "19",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/19.png",
+      "large": "https://images.pokemontcg.io/xy1/19_hires.png"
+    }
+  },
+  {
+    "id": "xy1-20",
+    "name": "Slugma",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "20",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/20.png",
+      "large": "https://images.pokemontcg.io/xy1/20_hires.png"
+    }
+  },
+  {
+    "id": "xy1-21",
+    "name": "Magcargo",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "21",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/21.png",
+      "large": "https://images.pokemontcg.io/xy1/21_hires.png"
+    }
+  },
+  {
+    "id": "xy1-22",
+    "name": "Pansear",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "22",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/22.png",
+      "large": "https://images.pokemontcg.io/xy1/22_hires.png"
+    }
+  },
+  {
+    "id": "xy1-23",
+    "name": "Simisear",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "23",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/23.png",
+      "large": "https://images.pokemontcg.io/xy1/23_hires.png"
+    }
+  },
+  {
+    "id": "xy1-24",
+    "name": "Fennekin",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "24",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/24.png",
+      "large": "https://images.pokemontcg.io/xy1/24_hires.png"
+    }
+  },
+  {
+    "id": "xy1-25",
+    "name": "Braixen",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "25",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/25.png",
+      "large": "https://images.pokemontcg.io/xy1/25_hires.png"
+    }
+  },
+  {
+    "id": "xy1-26",
+    "name": "Delphox",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "26",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/26.png",
+      "large": "https://images.pokemontcg.io/xy1/26_hires.png"
+    }
+  },
+  {
+    "id": "xy1-27",
+    "name": "Fletchinder",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "27",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/27.png",
+      "large": "https://images.pokemontcg.io/xy1/27_hires.png"
+    }
+  },
+  {
+    "id": "xy1-28",
+    "name": "Talonflame",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "28",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/28.png",
+      "large": "https://images.pokemontcg.io/xy1/28_hires.png"
+    }
+  },
+  {
+    "id": "xy1-29",
+    "name": "Blastoise-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "29",
+    "rarity": "Rare Holo EX",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/29.png",
+      "large": "https://images.pokemontcg.io/xy1/29_hires.png"
+    }
+  },
+  {
+    "id": "xy1-30",
+    "name": "M Blastoise-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "30",
+    "rarity": "Rare Holo EX",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/30.png",
+      "large": "https://images.pokemontcg.io/xy1/30_hires.png"
+    }
+  },
+  {
+    "id": "xy1-31",
+    "name": "Shellder",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "31",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/31.png",
+      "large": "https://images.pokemontcg.io/xy1/31_hires.png"
+    }
+  },
+  {
+    "id": "xy1-32",
+    "name": "Cloyster",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "32",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/32.png",
+      "large": "https://images.pokemontcg.io/xy1/32_hires.png"
+    }
+  },
+  {
+    "id": "xy1-33",
+    "name": "Staryu",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "33",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/33.png",
+      "large": "https://images.pokemontcg.io/xy1/33_hires.png"
+    }
+  },
+  {
+    "id": "xy1-34",
+    "name": "Starmie",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "34",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/34.png",
+      "large": "https://images.pokemontcg.io/xy1/34_hires.png"
+    }
+  },
+  {
+    "id": "xy1-35",
+    "name": "Lapras",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "35",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/35.png",
+      "large": "https://images.pokemontcg.io/xy1/35_hires.png"
+    }
+  },
+  {
+    "id": "xy1-36",
+    "name": "Corsola",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "36",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/36.png",
+      "large": "https://images.pokemontcg.io/xy1/36_hires.png"
+    }
+  },
+  {
+    "id": "xy1-37",
+    "name": "Panpour",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "37",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/37.png",
+      "large": "https://images.pokemontcg.io/xy1/37_hires.png"
+    }
+  },
+  {
+    "id": "xy1-38",
+    "name": "Simipour",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "38",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/38.png",
+      "large": "https://images.pokemontcg.io/xy1/38_hires.png"
+    }
+  },
+  {
+    "id": "xy1-39",
+    "name": "Froakie",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "39",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/39.png",
+      "large": "https://images.pokemontcg.io/xy1/39_hires.png"
+    }
+  },
+  {
+    "id": "xy1-40",
+    "name": "Frogadier",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "40",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/40.png",
+      "large": "https://images.pokemontcg.io/xy1/40_hires.png"
+    }
+  },
+  {
+    "id": "xy1-41",
+    "name": "Greninja",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "41",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/41.png",
+      "large": "https://images.pokemontcg.io/xy1/41_hires.png"
+    }
+  },
+  {
+    "id": "xy1-42",
+    "name": "Pikachu",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "42",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/42.png",
+      "large": "https://images.pokemontcg.io/xy1/42_hires.png"
+    }
+  },
+  {
+    "id": "xy1-43",
+    "name": "Raichu",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "43",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/43.png",
+      "large": "https://images.pokemontcg.io/xy1/43_hires.png"
+    }
+  },
+  {
+    "id": "xy1-44",
+    "name": "Voltorb",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "44",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/44.png",
+      "large": "https://images.pokemontcg.io/xy1/44_hires.png"
+    }
+  },
+  {
+    "id": "xy1-45",
+    "name": "Electrode",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "45",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/45.png",
+      "large": "https://images.pokemontcg.io/xy1/45_hires.png"
+    }
+  },
+  {
+    "id": "xy1-46",
+    "name": "Emolga-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "46",
+    "rarity": "Rare Holo EX",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/46.png",
+      "large": "https://images.pokemontcg.io/xy1/46_hires.png"
+    }
+  },
+  {
+    "id": "xy1-47",
+    "name": "Ekans",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "47",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/47.png",
+      "large": "https://images.pokemontcg.io/xy1/47_hires.png"
+    }
+  },
+  {
+    "id": "xy1-48",
+    "name": "Arbok",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "48",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/48.png",
+      "large": "https://images.pokemontcg.io/xy1/48_hires.png"
+    }
+  },
+  {
+    "id": "xy1-49",
+    "name": "Spoink",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "49",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/49.png",
+      "large": "https://images.pokemontcg.io/xy1/49_hires.png"
+    }
+  },
+  {
+    "id": "xy1-50",
+    "name": "Grumpig",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "50",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/50.png",
+      "large": "https://images.pokemontcg.io/xy1/50_hires.png"
+    }
+  },
+  {
+    "id": "xy1-51",
+    "name": "Venipede",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "51",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/51.png",
+      "large": "https://images.pokemontcg.io/xy1/51_hires.png"
+    }
+  },
+  {
+    "id": "xy1-52",
+    "name": "Whirlipede",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "52",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/52.png",
+      "large": "https://images.pokemontcg.io/xy1/52_hires.png"
+    }
+  },
+  {
+    "id": "xy1-53",
+    "name": "Scolipede",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "53",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/53.png",
+      "large": "https://images.pokemontcg.io/xy1/53_hires.png"
+    }
+  },
+  {
+    "id": "xy1-54",
+    "name": "Phantump",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "54",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/54.png",
+      "large": "https://images.pokemontcg.io/xy1/54_hires.png"
+    }
+  },
+  {
+    "id": "xy1-55",
+    "name": "Trevenant",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "55",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/55.png",
+      "large": "https://images.pokemontcg.io/xy1/55_hires.png"
+    }
+  },
+  {
+    "id": "xy1-56",
+    "name": "Pumpkaboo",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "56",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/56.png",
+      "large": "https://images.pokemontcg.io/xy1/56_hires.png"
+    }
+  },
+  {
+    "id": "xy1-57",
+    "name": "Gourgeist",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "57",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/57.png",
+      "large": "https://images.pokemontcg.io/xy1/57_hires.png"
+    }
+  },
+  {
+    "id": "xy1-58",
+    "name": "Diglett",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "58",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/58.png",
+      "large": "https://images.pokemontcg.io/xy1/58_hires.png"
+    }
+  },
+  {
+    "id": "xy1-59",
+    "name": "Dugtrio",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "59",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/59.png",
+      "large": "https://images.pokemontcg.io/xy1/59_hires.png"
+    }
+  },
+  {
+    "id": "xy1-60",
+    "name": "Rhyhorn",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "60",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/60.png",
+      "large": "https://images.pokemontcg.io/xy1/60_hires.png"
+    }
+  },
+  {
+    "id": "xy1-61",
+    "name": "Rhydon",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "61",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/61.png",
+      "large": "https://images.pokemontcg.io/xy1/61_hires.png"
+    }
+  },
+  {
+    "id": "xy1-62",
+    "name": "Rhyperior",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "62",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/62.png",
+      "large": "https://images.pokemontcg.io/xy1/62_hires.png"
+    }
+  },
+  {
+    "id": "xy1-63",
+    "name": "Lunatone",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "63",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/63.png",
+      "large": "https://images.pokemontcg.io/xy1/63_hires.png"
+    }
+  },
+  {
+    "id": "xy1-64",
+    "name": "Solrock",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "64",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/64.png",
+      "large": "https://images.pokemontcg.io/xy1/64_hires.png"
+    }
+  },
+  {
+    "id": "xy1-65",
+    "name": "Timburr",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "65",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/65.png",
+      "large": "https://images.pokemontcg.io/xy1/65_hires.png"
+    }
+  },
+  {
+    "id": "xy1-66",
+    "name": "Gurdurr",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "66",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/66.png",
+      "large": "https://images.pokemontcg.io/xy1/66_hires.png"
+    }
+  },
+  {
+    "id": "xy1-67",
+    "name": "Conkeldurr",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "67",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/67.png",
+      "large": "https://images.pokemontcg.io/xy1/67_hires.png"
+    }
+  },
+  {
+    "id": "xy1-68",
+    "name": "Sableye",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "68",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/68.png",
+      "large": "https://images.pokemontcg.io/xy1/68_hires.png"
+    }
+  },
+  {
+    "id": "xy1-69",
+    "name": "Sandile",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "69",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/69.png",
+      "large": "https://images.pokemontcg.io/xy1/69_hires.png"
+    }
+  },
+  {
+    "id": "xy1-70",
+    "name": "Krokorok",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "70",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/70.png",
+      "large": "https://images.pokemontcg.io/xy1/70_hires.png"
+    }
+  },
+  {
+    "id": "xy1-71",
+    "name": "Krookodile",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "71",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/71.png",
+      "large": "https://images.pokemontcg.io/xy1/71_hires.png"
+    }
+  },
+  {
+    "id": "xy1-72",
+    "name": "Zorua",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "72",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/72.png",
+      "large": "https://images.pokemontcg.io/xy1/72_hires.png"
+    }
+  },
+  {
+    "id": "xy1-73",
+    "name": "Zoroark",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "73",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/73.png",
+      "large": "https://images.pokemontcg.io/xy1/73_hires.png"
+    }
+  },
+  {
+    "id": "xy1-74",
+    "name": "Inkay",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "74",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/74.png",
+      "large": "https://images.pokemontcg.io/xy1/74_hires.png"
+    }
+  },
+  {
+    "id": "xy1-75",
+    "name": "Inkay",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "75",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/75.png",
+      "large": "https://images.pokemontcg.io/xy1/75_hires.png"
+    }
+  },
+  {
+    "id": "xy1-76",
+    "name": "Malamar",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "76",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/76.png",
+      "large": "https://images.pokemontcg.io/xy1/76_hires.png"
+    }
+  },
+  {
+    "id": "xy1-77",
+    "name": "Malamar",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "77",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/77.png",
+      "large": "https://images.pokemontcg.io/xy1/77_hires.png"
+    }
+  },
+  {
+    "id": "xy1-78",
+    "name": "Yveltal",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "78",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/78.png",
+      "large": "https://images.pokemontcg.io/xy1/78_hires.png"
+    }
+  },
+  {
+    "id": "xy1-79",
+    "name": "Yveltal-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "79",
+    "rarity": "Rare Holo EX",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/79.png",
+      "large": "https://images.pokemontcg.io/xy1/79_hires.png"
+    }
+  },
+  {
+    "id": "xy1-80",
+    "name": "Skarmory-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "80",
+    "rarity": "Rare Holo EX",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/80.png",
+      "large": "https://images.pokemontcg.io/xy1/80_hires.png"
+    }
+  },
+  {
+    "id": "xy1-81",
+    "name": "Pawniard",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "81",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/81.png",
+      "large": "https://images.pokemontcg.io/xy1/81_hires.png"
+    }
+  },
+  {
+    "id": "xy1-82",
+    "name": "Bisharp",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "82",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/82.png",
+      "large": "https://images.pokemontcg.io/xy1/82_hires.png"
+    }
+  },
+  {
+    "id": "xy1-83",
+    "name": "Honedge",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "83",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/83.png",
+      "large": "https://images.pokemontcg.io/xy1/83_hires.png"
+    }
+  },
+  {
+    "id": "xy1-84",
+    "name": "Doublade",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "84",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/84.png",
+      "large": "https://images.pokemontcg.io/xy1/84_hires.png"
+    }
+  },
+  {
+    "id": "xy1-85",
+    "name": "Aegislash",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "85",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/85.png",
+      "large": "https://images.pokemontcg.io/xy1/85_hires.png"
+    }
+  },
+  {
+    "id": "xy1-86",
+    "name": "Aegislash",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "86",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/86.png",
+      "large": "https://images.pokemontcg.io/xy1/86_hires.png"
+    }
+  },
+  {
+    "id": "xy1-87",
+    "name": "Jigglypuff",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "87",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/87.png",
+      "large": "https://images.pokemontcg.io/xy1/87_hires.png"
+    }
+  },
+  {
+    "id": "xy1-88",
+    "name": "Jigglypuff",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "88",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/88.png",
+      "large": "https://images.pokemontcg.io/xy1/88_hires.png"
+    }
+  },
+  {
+    "id": "xy1-89",
+    "name": "Wigglytuff",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "89",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/89.png",
+      "large": "https://images.pokemontcg.io/xy1/89_hires.png"
+    }
+  },
+  {
+    "id": "xy1-90",
+    "name": "Wigglytuff",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "90",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/90.png",
+      "large": "https://images.pokemontcg.io/xy1/90_hires.png"
+    }
+  },
+  {
+    "id": "xy1-91",
+    "name": "Mr. Mime",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "91",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/91.png",
+      "large": "https://images.pokemontcg.io/xy1/91_hires.png"
+    }
+  },
+  {
+    "id": "xy1-92",
+    "name": "Spritzee",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "92",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/92.png",
+      "large": "https://images.pokemontcg.io/xy1/92_hires.png"
+    }
+  },
+  {
+    "id": "xy1-93",
+    "name": "Aromatisse",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "93",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/93.png",
+      "large": "https://images.pokemontcg.io/xy1/93_hires.png"
+    }
+  },
+  {
+    "id": "xy1-94",
+    "name": "Swirlix",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "94",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/94.png",
+      "large": "https://images.pokemontcg.io/xy1/94_hires.png"
+    }
+  },
+  {
+    "id": "xy1-95",
+    "name": "Slurpuff",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "95",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/95.png",
+      "large": "https://images.pokemontcg.io/xy1/95_hires.png"
+    }
+  },
+  {
+    "id": "xy1-96",
+    "name": "Xerneas",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "96",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/96.png",
+      "large": "https://images.pokemontcg.io/xy1/96_hires.png"
+    }
+  },
+  {
+    "id": "xy1-97",
+    "name": "Xerneas-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "97",
+    "rarity": "Rare Holo EX",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/97.png",
+      "large": "https://images.pokemontcg.io/xy1/97_hires.png"
+    }
+  },
+  {
+    "id": "xy1-98",
+    "name": "Doduo",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "98",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/98.png",
+      "large": "https://images.pokemontcg.io/xy1/98_hires.png"
+    }
+  },
+  {
+    "id": "xy1-99",
+    "name": "Dodrio",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "99",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/99.png",
+      "large": "https://images.pokemontcg.io/xy1/99_hires.png"
+    }
+  },
+  {
+    "id": "xy1-100",
+    "name": "Tauros",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "100",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/100.png",
+      "large": "https://images.pokemontcg.io/xy1/100_hires.png"
+    }
+  },
+  {
+    "id": "xy1-101",
+    "name": "Dunsparce",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "101",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/101.png",
+      "large": "https://images.pokemontcg.io/xy1/101_hires.png"
+    }
+  },
+  {
+    "id": "xy1-102",
+    "name": "Taillow",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "102",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/102.png",
+      "large": "https://images.pokemontcg.io/xy1/102_hires.png"
+    }
+  },
+  {
+    "id": "xy1-103",
+    "name": "Swellow",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "103",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/103.png",
+      "large": "https://images.pokemontcg.io/xy1/103_hires.png"
+    }
+  },
+  {
+    "id": "xy1-104",
+    "name": "Skitty",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "104",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/104.png",
+      "large": "https://images.pokemontcg.io/xy1/104_hires.png"
+    }
+  },
+  {
+    "id": "xy1-105",
+    "name": "Delcatty",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "105",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/105.png",
+      "large": "https://images.pokemontcg.io/xy1/105_hires.png"
+    }
+  },
+  {
+    "id": "xy1-106",
+    "name": "Bidoof",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "106",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/106.png",
+      "large": "https://images.pokemontcg.io/xy1/106_hires.png"
+    }
+  },
+  {
+    "id": "xy1-107",
+    "name": "Bibarel",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "107",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/107.png",
+      "large": "https://images.pokemontcg.io/xy1/107_hires.png"
+    }
+  },
+  {
+    "id": "xy1-108",
+    "name": "Lillipup",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "108",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/108.png",
+      "large": "https://images.pokemontcg.io/xy1/108_hires.png"
+    }
+  },
+  {
+    "id": "xy1-109",
+    "name": "Herdier",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "109",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/109.png",
+      "large": "https://images.pokemontcg.io/xy1/109_hires.png"
+    }
+  },
+  {
+    "id": "xy1-110",
+    "name": "Stoutland",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "110",
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/110.png",
+      "large": "https://images.pokemontcg.io/xy1/110_hires.png"
+    }
+  },
+  {
+    "id": "xy1-111",
+    "name": "Bunnelby",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "111",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/111.png",
+      "large": "https://images.pokemontcg.io/xy1/111_hires.png"
+    }
+  },
+  {
+    "id": "xy1-112",
+    "name": "Diggersby",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "112",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/112.png",
+      "large": "https://images.pokemontcg.io/xy1/112_hires.png"
+    }
+  },
+  {
+    "id": "xy1-113",
+    "name": "Fletchling",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "113",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/113.png",
+      "large": "https://images.pokemontcg.io/xy1/113_hires.png"
+    }
+  },
+  {
+    "id": "xy1-114",
+    "name": "Furfrou",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "114",
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/114.png",
+      "large": "https://images.pokemontcg.io/xy1/114_hires.png"
+    }
+  },
+  {
+    "id": "xy1-115",
+    "name": "Cassius",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "115",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/115.png",
+      "large": "https://images.pokemontcg.io/xy1/115_hires.png"
+    }
+  },
+  {
+    "id": "xy1-116",
+    "name": "Evosoda",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "116",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/116.png",
+      "large": "https://images.pokemontcg.io/xy1/116_hires.png"
+    }
+  },
+  {
+    "id": "xy1-117",
+    "name": "Fairy Garden",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "117",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/117.png",
+      "large": "https://images.pokemontcg.io/xy1/117_hires.png"
+    }
+  },
+  {
+    "id": "xy1-118",
+    "name": "Great Ball",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "118",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/118.png",
+      "large": "https://images.pokemontcg.io/xy1/118_hires.png"
+    }
+  },
+  {
+    "id": "xy1-119",
+    "name": "Hard Charm",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "119",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/119.png",
+      "large": "https://images.pokemontcg.io/xy1/119_hires.png"
+    }
+  },
+  {
+    "id": "xy1-120",
+    "name": "Max Revive",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "120",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/120.png",
+      "large": "https://images.pokemontcg.io/xy1/120_hires.png"
+    }
+  },
+  {
+    "id": "xy1-121",
+    "name": "Muscle Band",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "121",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/121.png",
+      "large": "https://images.pokemontcg.io/xy1/121_hires.png"
+    }
+  },
+  {
+    "id": "xy1-122",
+    "name": "Professor Sycamore",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "122",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/122.png",
+      "large": "https://images.pokemontcg.io/xy1/122_hires.png"
+    }
+  },
+  {
+    "id": "xy1-123",
+    "name": "Professor's Letter",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "123",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/123.png",
+      "large": "https://images.pokemontcg.io/xy1/123_hires.png"
+    }
+  },
+  {
+    "id": "xy1-124",
+    "name": "Red Card",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "124",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/124.png",
+      "large": "https://images.pokemontcg.io/xy1/124_hires.png"
+    }
+  },
+  {
+    "id": "xy1-125",
+    "name": "Roller Skates",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "125",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/125.png",
+      "large": "https://images.pokemontcg.io/xy1/125_hires.png"
+    }
+  },
+  {
+    "id": "xy1-126",
+    "name": "Shadow Circle",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "126",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/126.png",
+      "large": "https://images.pokemontcg.io/xy1/126_hires.png"
+    }
+  },
+  {
+    "id": "xy1-127",
+    "name": "Shauna",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "127",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/127.png",
+      "large": "https://images.pokemontcg.io/xy1/127_hires.png"
+    }
+  },
+  {
+    "id": "xy1-128",
+    "name": "Super Potion",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "128",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/128.png",
+      "large": "https://images.pokemontcg.io/xy1/128_hires.png"
+    }
+  },
+  {
+    "id": "xy1-129",
+    "name": "Team Flare Grunt",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "129",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/129.png",
+      "large": "https://images.pokemontcg.io/xy1/129_hires.png"
+    }
+  },
+  {
+    "id": "xy1-130",
+    "name": "Double Colorless Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "130",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/130.png",
+      "large": "https://images.pokemontcg.io/xy1/130_hires.png"
+    }
+  },
+  {
+    "id": "xy1-131",
+    "name": "Rainbow Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "131",
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/131.png",
+      "large": "https://images.pokemontcg.io/xy1/131_hires.png"
+    }
+  },
+  {
+    "id": "xy1-132",
+    "name": "Grass Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "132",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/132.png",
+      "large": "https://images.pokemontcg.io/xy1/132_hires.png"
+    }
+  },
+  {
+    "id": "xy1-133",
+    "name": "Fire Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "133",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/133.png",
+      "large": "https://images.pokemontcg.io/xy1/133_hires.png"
+    }
+  },
+  {
+    "id": "xy1-134",
+    "name": "Water Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "134",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/134.png",
+      "large": "https://images.pokemontcg.io/xy1/134_hires.png"
+    }
+  },
+  {
+    "id": "xy1-135",
+    "name": "Lightning Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "135",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/135.png",
+      "large": "https://images.pokemontcg.io/xy1/135_hires.png"
+    }
+  },
+  {
+    "id": "xy1-136",
+    "name": "Psychic Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "136",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/136.png",
+      "large": "https://images.pokemontcg.io/xy1/136_hires.png"
+    }
+  },
+  {
+    "id": "xy1-137",
+    "name": "Fighting Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "137",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/137.png",
+      "large": "https://images.pokemontcg.io/xy1/137_hires.png"
+    }
+  },
+  {
+    "id": "xy1-138",
+    "name": "Darkness Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "138",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/138.png",
+      "large": "https://images.pokemontcg.io/xy1/138_hires.png"
+    }
+  },
+  {
+    "id": "xy1-139",
+    "name": "Metal Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "139",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/139.png",
+      "large": "https://images.pokemontcg.io/xy1/139_hires.png"
+    }
+  },
+  {
+    "id": "xy1-140",
+    "name": "Fairy Energy",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "140",
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/140.png",
+      "large": "https://images.pokemontcg.io/xy1/140_hires.png"
+    }
+  },
+  {
+    "id": "xy1-141",
+    "name": "Venusaur-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "141",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/141.png",
+      "large": "https://images.pokemontcg.io/xy1/141_hires.png"
+    }
+  },
+  {
+    "id": "xy1-142",
+    "name": "Blastoise-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "142",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/142.png",
+      "large": "https://images.pokemontcg.io/xy1/142_hires.png"
+    }
+  },
+  {
+    "id": "xy1-143",
+    "name": "Emolga-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "143",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/143.png",
+      "large": "https://images.pokemontcg.io/xy1/143_hires.png"
+    }
+  },
+  {
+    "id": "xy1-144",
+    "name": "Yveltal-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "144",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/144.png",
+      "large": "https://images.pokemontcg.io/xy1/144_hires.png"
+    }
+  },
+  {
+    "id": "xy1-145",
+    "name": "Skarmory-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "145",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/145.png",
+      "large": "https://images.pokemontcg.io/xy1/145_hires.png"
+    }
+  },
+  {
+    "id": "xy1-146",
+    "name": "Xerneas-EX",
+    "set": {
+      "id": "xy1",
+      "name": "XY",
+      "series": "XY",
+      "printedTotal": 146,
+      "total": 146,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "XY",
+      "releaseDate": "2014/02/05",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy1/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy1/logo.png"
+      }
+    },
+    "number": "146",
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/146.png",
+      "large": "https://images.pokemontcg.io/xy1/146_hires.png"
+    }
+  }
+]
