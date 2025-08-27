@@ -27,6 +27,18 @@ const corsOptions = {
 app.use(cors(corsOptions));
 app.use(express.json());
 
+// Health check endpoint for Render
+app.get('/healthz', (req, res) => {
+  res.status(200).json({ status: 'ok', timestamp: new Date().toISOString() });
+});
+
+// File paths
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const LOCAL_PACKS_PATH = path.join(__dirname, 'packs.local.json');
+const CACHE_PACKS_PATH = path.join(__dirname, 'packs.cache.json');
+const CARD_POOL_TTL_MS = parseInt(process.env.CARD_POOL_TTL_MS || '43200000', 10); // Default 12h
+
 // File paths
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -723,8 +735,8 @@ app.post('/api/admin/set-coins', async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
-  console.log(`Server listening on http://localhost:${PORT}`);
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`Server listening on http://0.0.0.0:${PORT}`);
 });
 
 // Simple image proxy to avoid client-side CORS/referrer blocking issues
