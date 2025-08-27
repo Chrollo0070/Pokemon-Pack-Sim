@@ -6,7 +6,8 @@
   "scripts": {
     "server": "npm --prefix server start",
     "client": "npm --prefix client run dev",
-    "start": "concurrently \"npm:server\" \"npm:client\""
+    "start": "concurrently \"npm:server\" \"npm:client\"",
+    "build": "npm --prefix client run build"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.1",
