@@ -1,8 +1,7 @@
 import axios from 'axios'
 
-// Use relative paths for API requests when deployed to Vercel
-// This allows the frontend to work with the backend routes defined in vercel.json
-const baseURL = import.meta.env.VITE_API_BASE || ''
+// Use environment variable for API base URL, with a default for local development
+const baseURL = import.meta.env.VITE_API_BASE || 'http://localhost:3001'
 
 export const api = axios.create({
   baseURL,
