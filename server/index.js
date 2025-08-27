@@ -39,13 +39,6 @@ const LOCAL_PACKS_PATH = path.join(__dirname, 'packs.local.json');
 const CACHE_PACKS_PATH = path.join(__dirname, 'packs.cache.json');
 const CARD_POOL_TTL_MS = parseInt(process.env.CARD_POOL_TTL_MS || '43200000', 10); // Default 12h
 
-// File paths
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const LOCAL_PACKS_PATH = path.join(__dirname, 'packs.local.json');
-const CACHE_PACKS_PATH = path.join(__dirname, 'packs.cache.json');
-const CARD_POOL_TTL_MS = parseInt(process.env.CARD_POOL_TTL_MS || '43200000', 10); // Default 12h
-
 // Global state
 let PACKS_LIST = [];
 let PACKS_READY = false;
@@ -708,8 +701,28 @@ app.post('/api/packs/open', async (req, res) => {
   }
 });
 
-app.get('/health', (_req, res) => {
-  res.json({ ok: true });
+// Enhanced health check endpoint for Render with database connectivity verification
+app.get('/health', async (req, res) => {
+  try {
+    // Test database connectivity
+    const db = await getDB();
+    await db.get('SELECT 1');
+    
+    // Return detailed health status
+    res.status(200).json({ 
+      status: 'ok', 
+      timestamp: new Date().toISOString(),
+      uptime: process.uptime(),
+      database: 'connected'
+    });
+  } catch (error) {
+    console.error('Health check failed:', error);
+    res.status(503).json({ 
+      status: 'error', 
+      timestamp: new Date().toISOString(),
+      error: 'Database connection failed'
+    });
+  }
 });
 
 // Admin: Set coins (protected by ADMIN_TOKEN)
@@ -735,9 +748,15 @@ app.post('/api/admin/set-coins', async (req, res) => {
   }
 });
 
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`Server listening on http://0.0.0.0:${PORT}`);
-});
+// Start server with error handling
+try {
+  app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Server listening on http://0.0.0.0:${PORT}`);
+  });
+} catch (error) {
+  console.error('Failed to start server:', error);
+  process.exit(1);
+}
 
 // Simple image proxy to avoid client-side CORS/referrer blocking issues
 app.get('/api/proxy-image', async (req, res) => {
