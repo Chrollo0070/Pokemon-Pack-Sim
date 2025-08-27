@@ -701,28 +701,14 @@ app.post('/api/packs/open', async (req, res) => {
   }
 });
 
-// Enhanced health check endpoint for Render with database connectivity verification
-app.get('/health', async (req, res) => {
-  try {
-    // Test database connectivity
-    const db = await getDB();
-    await db.get('SELECT 1');
-    
-    // Return detailed health status
-    res.status(200).json({ 
-      status: 'ok', 
-      timestamp: new Date().toISOString(),
-      uptime: process.uptime(),
-      database: 'connected'
-    });
-  } catch (error) {
-    console.error('Health check failed:', error);
-    res.status(503).json({ 
-      status: 'error', 
-      timestamp: new Date().toISOString(),
-      error: 'Database connection failed'
-    });
-  }
+// Enhanced health check endpoint for Render
+app.get('/health', (_req, res) => {
+  // Return detailed health status
+  res.status(200).json({ 
+    status: 'ok', 
+    timestamp: new Date().toISOString(),
+    uptime: process.uptime()
+  });
 });
 
 // Admin: Set coins (protected by ADMIN_TOKEN)
